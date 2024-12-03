@@ -7,3 +7,4 @@ My solutions to [Advent of Code 2024](https://adventofcode.com/).
 
 - [Day 1: Historian Hysteria](https://adventofcode.com/2024/day/1) - [solution](day1-historian-hysteria/historian_hysteria.py)
 - [Day 2: Red-Nosed Reports](https://adventofcode.com/2024/day/2) - [solution](day2-red-nosed-reports/red_nosed_reports.py)
+- [Day 3: Mull It Over](https://adventofcode.com/2024/day/3) - [solution](day3-mull-it-over/mull_it_over.py)
