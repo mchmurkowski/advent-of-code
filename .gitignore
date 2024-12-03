@@ -1,0 +1,4 @@
+# ignore puzzle input
+*-input
+# ignore template for now
+template.py
